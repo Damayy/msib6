@@ -1,0 +1,8 @@
+MSIB BATCH 6 di NF COMPUTER
+html
+github
+UI/UX
+JavaScript
+Laravel
+MYSQL
+//git add untuk menambahkan file
